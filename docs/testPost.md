@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: none
 title: "testPost"
 permalink: /testPost
 ---
